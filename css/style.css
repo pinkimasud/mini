@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+}
+/* header section */
+.head{
+    padding: 30px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+/* banner-background img section start */
+
+/* banner content section */
+.text-item{
+    margin-top: 80px;
+}
+span{
+    font-size: 16px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    display: block;
+}
+h1{
+    color:#626262;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+p{
+    color:#626262;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+/* items section start */
+ .item-image{
+    position: relative;
+    margin: 20px 0px;
+}
+.item-image img{
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+/* newsletter section start */
+.hg{
+    height: 250px;
+}
+.newsletter{
+    background-color: #f0f0f0;
+    margin-bottom: 40px; 
+}
+.newsletter-content{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    position: relative;
+}
+.newsletter h1{
+   font-family:'Playfair Display', serif;
+   text-transform: uppercase;
+   color:#626262;
+   margin-bottom:50px;
+   font-size: 29px;
+}
+.newsletter input{
+   border: none;
+   background-color: transparent;
+   border-bottom:1px solid black;
+   width: 100%;
+}
+.icon img{
+    position: absolute;
+    right: 4%;
+    bottom: 0;
+}
+
+/* last item section start */
+.last-img{
+    margin-top: 20px;
+}
+/* load more button start */
+.button{
+    width: 394%;
+    background: transparent;
+    border: none;
+    margin-top: 49px;
+}
+/*footer section start*/
+footer{
+    background-color:#f0f0f0;
+    margin-top: 200px;
+ }
+ .hg-footer{
+    height: 70px;
+ }
+ .footer-content{
+     width: 80%;
+     margin: auto;
+     overflow: hidden;
+     padding-top: 40px;
+ }
+ .terms ul{
+     list-style: none;
+ }
+ .terms ul li a{
+     margin: 10px;
+     color:#626262;
+     text-transform: uppercase;
+     text-decoration: none;
+ }
+ .social-follow ul li a{
+     color:#626262;
+    margin-left: 25px;
+}
+ .social-follow ul li a:hover{
+     color: cornflowerblue;
+ }
